@@ -1,10 +1,15 @@
 [
     {
-        "category": "Humor",
-        "message" : "Arahabarahabao ny olona , fa tsy fantatra izay horafozanina "
+        "category": "Fihavanana",
+        "messages": [
+            "Arahabarahabao ny olona , fa tsy fantatra izay horafozanina.",
+            "Manalasala toy ny kamboty maditra, tiavina maniratsira ankalaina tsy misy mpihantra"
+        ]
     },
     {
-        "category": "",
-        "message" : "Manalasala toy ny kamboty maditra, tiavina maniratsira ankalaina tsy misy mpihantra"
+        "category": "Firaisankina",
+        "messages": [
+            "Izay mitambatra vato, izay misaraka fasika",
+        ]
     },
 ]
