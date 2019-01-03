@@ -7,6 +7,12 @@ JSON containing the list of "Ohabolana" Malagasy.
 ```sh
 $ git clone https://github.com/[your-username]/ohabolana
 ```
+```sh
+$ cd ohabolana 
+```  
+```sh
+$ npm install
+```  
 3. On your machine, go to the repo you just cloned, create a new branch where you will make your changes and move into it. Once the changes are complete, commit.
 ```sh
 $ git checkout -b my-new-branch
@@ -17,5 +23,6 @@ $ git commit -m "Added new fucking ohabolana "
 $ git push origin my-new-branch
 ```  
 5. Once your modifications have been sent to your GitHub fork, you have to send your change request by sending a pull request. To do this, go to your GitHub fork, on your my-new-branch, and click on "Compare & pull request".
+
 
 :heart_eyes: well done, thank you for your contribution
