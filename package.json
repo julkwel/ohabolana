@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "fs": "^0.0.1-security",
+    "replace": "^1.0.1",
+    "request-promise": "^4.2.2"
+  }
+}
