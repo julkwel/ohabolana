@@ -16,6 +16,7 @@ $ npm install
 3. On your machine, go to the repo you just cloned, create a new branch where you will make your changes and move into it. Once the changes are complete, commit.
 ```sh
 $ git checkout -b my-new-branch
+$ git add file_change
 $ git commit -m "Added new fucking ohabolana "
 ``` 
 4. Send your changes to GitHub by doing a git push of your new branch
